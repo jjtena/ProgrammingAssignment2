@@ -1,4 +1,4 @@
-## These functions return the inverse of a matrix, and if it
+## These functions return the inverse of a matrix, but if it
 ## was already calculated they get the solution from the cache
 
 
